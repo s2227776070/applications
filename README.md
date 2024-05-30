@@ -1,1 +1,2 @@
-# applications
+# PD19安装器
+  1. 解压后打开，激活码：41H5G5-8TCE8H-W9015J-P165RF-UFHHB0
